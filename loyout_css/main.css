@@ -87,4 +87,12 @@ flex: 5.5;
 }
 
 
-
+/* @media screen {
+    .content{
+        display: flex;
+        flex-direction: column;
+    }
+    .content__body{
+        width: auto;
+    }
+} */
